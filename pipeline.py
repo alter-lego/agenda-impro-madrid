@@ -8,9 +8,10 @@ import os
 import unicodedata
 from datetime import datetime
 
-from scrapers.scraper_atrapalo import scrape as scrape_atrapalo
-from scrapers.scraper_capa1    import scrape as scrape_capa1
-from scrapers.auditor          import run_audit
+from scrapers.scraper_atrapalo   import scrape as scrape_atrapalo
+from scrapers.scraper_capa1      import scrape as scrape_capa1
+from scrapers.scraper_club_impro import scrape as scrape_club_impro
+from scrapers.auditor            import run_audit
 
 os.makedirs("output", exist_ok=True)
 
@@ -56,9 +57,20 @@ def render_html(eventos):
         precio = ev.get("precio") or "—"
         url    = ev.get("url_entradas") or ev.get("url_info") or "#"
         fuente = ev.get("fuente", "")
-        badge_cls = {"atrapalo": "at", "escalera_jacob": "ej", "teatro_asura": "ta"}.get(fuente, "ot")
-        badge_txt = {"atrapalo": "Atrápalo", "escalera_jacob": "Escalera Jacob",
-                     "teatro_asura": "Teatro Asura"}.get(fuente, fuente.replace("_", " ").title())
+        badge_cls = {
+            "atrapalo":       "at",
+            "escalera_jacob": "ej",
+            "teatro_asura":   "ta",
+            "global_impro":   "gi",
+            "club_impro":     "ci",
+        }.get(fuente, "ot")
+        badge_txt = {
+            "atrapalo":       "Atrápalo",
+            "escalera_jacob": "Escalera Jacob",
+            "teatro_asura":   "Teatro Asura",
+            "global_impro":   "Global Impro",
+            "club_impro":     "Club de la Impro",
+        }.get(fuente, fuente.replace("_", " ").title())
 
         filas += f"""
       <tr>
@@ -120,6 +132,8 @@ def render_html(eventos):
     .badge.at {{ background: #fff3e0; color: #e65100; }}
     .badge.ej {{ background: #e8f5e9; color: #2e7d32; }}
     .badge.ta {{ background: #e3f2fd; color: #1565c0; }}
+    .badge.gi {{ background: #fce4ec; color: #ad1457; }}
+    .badge.ci {{ background: #e0f2f1; color: #00695c; }}
     .badge.ot {{ background: #f3e5f5; color: #6a1b9a; }}
     .tag {{
       display: inline-block; font-size: .72rem; padding: .15rem .5rem;
@@ -136,7 +150,7 @@ def render_html(eventos):
 <body>
   <header>
     <h1>🎭 Agenda Impro Madrid</h1>
-    <p>Actualizado: {ahora} · {n} eventos · Fuentes: Atrápalo, La Escalera de Jacob, Teatro Asura</p>
+    <p>Actualizado: {ahora} · {n} eventos · Fuentes: Atrápalo, La Escalera de Jacob, Teatro Asura, Global Impro, El Club de la Impro</p>
   </header>
 
   <div class="container">
@@ -189,24 +203,28 @@ def render_html(eventos):
 if __name__ == "__main__":
     print("=== Pipeline Agenda Impro Madrid ===\n")
 
-    print("[ 1/4 ] Scraping Capa 1 (salas)...")
+    print("[ 1/5 ] Scraping Capa 1 — salas estáticas...")
     ev_capa1 = scrape_capa1()
     print(f"        → {len(ev_capa1)} eventos\n")
 
-    print("[ 2/4 ] Scraping Capa 2 (Atrápalo)...")
+    print("[ 2/5 ] Scraping Capa 1 — El Club de la Impro (Playwright)...")
+    ev_club = scrape_club_impro()
+    print(f"        → {len(ev_club)} eventos\n")
+
+    print("[ 3/5 ] Scraping Capa 2 (Atrápalo)...")
     ev_capa2 = scrape_atrapalo()
     print(f"        → {len(ev_capa2)} eventos\n")
 
-    todos = ev_capa1 + ev_capa2
+    todos = ev_capa1 + ev_club + ev_capa2
 
-    print("[ 3/4 ] Auditoría...")
+    print("[ 4/5 ] Auditoría...")
     audit = run_audit(todos)
     if audit["bloqueado"]:
         print("        ⛔ Pipeline bloqueado por el auditor. Revisa output/audit.json")
         exit(1)
     print()
 
-    print("[ 4/4 ] Deduplicando y generando output...")
+    print("[ 5/5 ] Deduplicando y generando output...")
     deduped = deduplicate(todos)
     print(f"        {len(todos)} → {len(deduped)} eventos tras deduplicación\n")
 
