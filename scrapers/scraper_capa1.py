@@ -98,10 +98,67 @@ def scrape_asura():
     return events
 
 
+# ── Global Impro (La Casa de los Jacintos) ───────────────────────────────────
+
+def scrape_global_impro():
+    """Global Impro — shows en La Casa de los Jacintos vía billetweb."""
+    url = "https://www.billetweb.fr/global-impro-shows"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10)
+    except Exception:
+        return []
+    soup = BeautifulSoup(r.text, "html.parser")
+
+    fecha_re = re.compile(
+        r"\d{1,2}\s+de\s+"
+        r"(?:enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre)",
+        re.IGNORECASE,
+    )
+    events = []
+    seen   = set()
+
+    for strong in soup.find_all("strong"):
+        titulo = strong.get_text(strip=True)
+        # Ignorar: vacío, etiquetas [ESTRENO...], textos de UI, fechas puras
+        if not titulo or len(titulo) < 4:
+            continue
+        if titulo.startswith("["):
+            continue
+        if fecha_re.fullmatch(titulo):
+            continue
+        if any(w in titulo.lower() for w in ["billetweb", "book", "ticket", "read", "organizer", "contact"]):
+            continue
+
+        # El párrafo padre debe contener una fecha
+        parent_text = strong.parent.get_text()
+        m = fecha_re.search(parent_text)
+        if not m:
+            continue
+
+        key = titulo.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+
+        events.append({
+            "titulo":       titulo.title(),
+            "tipo":         _classify(titulo),
+            "fecha":        m.group(0),
+            "sala":         "La Casa de los Jacintos",
+            "direccion":    "C/ de La Arganzuela, 11, Madrid",
+            "precio":       "10€",
+            "url_entradas": url,
+            "url_info":     url,
+            "fuente":       "global_impro",
+        })
+
+    return events
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 def scrape():
-    return scrape_escalera() + scrape_asura()
+    return scrape_escalera() + scrape_asura() + scrape_global_impro()
 
 
 if __name__ == "__main__":
@@ -114,4 +171,10 @@ if __name__ == "__main__":
     ev_a = scrape_asura()
     print(f"Teatro Asura → {len(ev_a)} eventos")
     for e in ev_a:
+        print(f"  · [{e['tipo']}] {e['titulo'][:40]:40} | {e['fecha']}")
+
+    print()
+    ev_g = scrape_global_impro()
+    print(f"Global Impro (La Casa de los Jacintos) → {len(ev_g)} eventos")
+    for e in ev_g:
         print(f"  · [{e['tipo']}] {e['titulo'][:40]:40} | {e['fecha']}")
