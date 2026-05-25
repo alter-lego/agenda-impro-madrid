@@ -2,9 +2,8 @@ name: Actualizar Agenda Impro Madrid
 
 on:
   schedule:
-    # Cada lunes a las 8:00 UTC (10:00 Madrid en verano)
     - cron: "0 8 * * 1"
-  workflow_dispatch:  # permite lanzarlo manualmente desde GitHub
+  workflow_dispatch:
 
 permissions:
   contents: write
