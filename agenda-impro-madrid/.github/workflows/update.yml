@@ -1,0 +1,39 @@
+name: Actualizar Agenda Impro Madrid
+
+on:
+  schedule:
+    # Cada lunes a las 8:00 UTC (10:00 Madrid en verano)
+    - cron: "0 8 * * 1"
+  workflow_dispatch:  # permite lanzarlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: Ejecutar pipeline
+        run: python pipeline.py
+
+      - name: Publicar en gh-pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          keep_files: false
+          commit_message: "Agenda actualizada automáticamente"
