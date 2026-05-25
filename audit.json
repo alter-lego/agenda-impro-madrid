@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-05-25T22:01:23",
-  "fuentes_auditadas": 3,
-  "total_eventos": 48,
-  "total_alertas": 25,
+  "fecha_ejecucion": "2026-05-25T22:40:58",
+  "fuentes_auditadas": 5,
+  "total_eventos": 55,
+  "total_alertas": 29,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-05-25T22:01:23",
+      "fecha_ejecucion": "2026-05-25T22:40:58",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:01:23",
+      "fecha_ejecucion": "2026-05-25T22:40:58",
       "fuente": "teatro_asura",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,7 +37,48 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:01:23",
+      "fecha_ejecucion": "2026-05-25T22:40:58",
+      "fuente": "global_impro",
+      "eventos_recibidos": 3,
+      "eventos_validos": 3,
+      "num_alertas": 0,
+      "num_alertas_graves": 0,
+      "alertas": [],
+      "bloqueado": false
+    },
+    {
+      "fecha_ejecucion": "2026-05-25T22:40:58",
+      "fuente": "club_impro",
+      "eventos_recibidos": 4,
+      "eventos_validos": 4,
+      "num_alertas": 4,
+      "num_alertas_graves": 0,
+      "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Improdimensional",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Reservas@Elclubdelaimpro.Com",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Xvii Torneo -  Octavos De Final",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Artylógico",
+          "detalle": "fecha vacía (aviso)"
+        }
+      ],
+      "bloqueado": false
+    },
+    {
+      "fecha_ejecucion": "2026-05-25T22:40:58",
       "fuente": "atrapalo",
       "eventos_recibidos": 42,
       "eventos_validos": 42,

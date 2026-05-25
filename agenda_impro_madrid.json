@@ -66,6 +66,83 @@
     "fuente": "teatro_asura"
   },
   {
+    "titulo": "Gabi Gardiol & Los Ritual Loops",
+    "tipo": "show",
+    "fecha": "29 de mayo",
+    "sala": "La Casa de los Jacintos",
+    "direccion": "C/ de La Arganzuela, 11, Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.billetweb.fr/global-impro-shows",
+    "url_info": "https://www.billetweb.fr/global-impro-shows",
+    "fuente": "global_impro"
+  },
+  {
+    "titulo": "Jam Mundial",
+    "tipo": "taller",
+    "fecha": "13 de junio",
+    "sala": "La Casa de los Jacintos",
+    "direccion": "C/ de La Arganzuela, 11, Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.billetweb.fr/global-impro-shows",
+    "url_info": "https://www.billetweb.fr/global-impro-shows",
+    "fuente": "global_impro"
+  },
+  {
+    "titulo": "Anfibia",
+    "tipo": "show",
+    "fecha": "14 de junio",
+    "sala": "La Casa de los Jacintos",
+    "direccion": "C/ de La Arganzuela, 11, Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.billetweb.fr/global-impro-shows",
+    "url_info": "https://www.billetweb.fr/global-impro-shows",
+    "fuente": "global_impro"
+  },
+  {
+    "titulo": "Improdimensional",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "El Club de la Impro",
+    "direccion": "C/ Santa Ana, 6, Madrid",
+    "precio": null,
+    "url_entradas": "https://www.elclubdelaimpro.com/blog",
+    "url_info": "https://www.elclubdelaimpro.com/blog",
+    "fuente": "club_impro"
+  },
+  {
+    "titulo": "Reservas@Elclubdelaimpro.Com",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "El Club de la Impro",
+    "direccion": "C/ Santa Ana, 6, Madrid",
+    "precio": null,
+    "url_entradas": "https://www.elclubdelaimpro.commailto:reservas@elclubdelaimpro.com",
+    "url_info": "https://www.elclubdelaimpro.commailto:reservas@elclubdelaimpro.com",
+    "fuente": "club_impro"
+  },
+  {
+    "titulo": "Xvii Torneo -  Octavos De Final",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "El Club de la Impro",
+    "direccion": "C/ Santa Ana, 6, Madrid",
+    "precio": null,
+    "url_entradas": "https://www.elclubdelaimpro.com/events/xvii-torneo-octavos-de-final-2026-05-29-21-30",
+    "url_info": "https://www.elclubdelaimpro.com/events/xvii-torneo-octavos-de-final-2026-05-29-21-30",
+    "fuente": "club_impro"
+  },
+  {
+    "titulo": "Artylógico",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "El Club de la Impro",
+    "direccion": "C/ Santa Ana, 6, Madrid",
+    "precio": null,
+    "url_entradas": "https://www.elclubdelaimpro.com/events/artylogico-62",
+    "url_info": "https://www.elclubdelaimpro.com/events/artylogico-62",
+    "fuente": "club_impro"
+  },
+  {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
     "fecha": "28 may al 04 jul",
