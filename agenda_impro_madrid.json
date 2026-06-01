@@ -55,28 +55,6 @@
     "fuente": "teatro_asura"
   },
   {
-    "titulo": "Match De Improvisación",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Asura",
-    "direccion": "C/ de Abel 1, Madrid",
-    "precio": null,
-    "url_entradas": "https://teatroasura.com/espectaculo/match-de-improvisacion/",
-    "url_info": "https://teatroasura.com/espectaculo/match-de-improvisacion/",
-    "fuente": "teatro_asura"
-  },
-  {
-    "titulo": "Gabi Gardiol & Los Ritual Loops",
-    "tipo": "show",
-    "fecha": "29 de mayo",
-    "sala": "La Casa de los Jacintos",
-    "direccion": "C/ de La Arganzuela, 11, Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.billetweb.fr/global-impro-shows",
-    "url_info": "https://www.billetweb.fr/global-impro-shows",
-    "fuente": "global_impro"
-  },
-  {
     "titulo": "Jam Mundial",
     "tipo": "taller",
     "fecha": "13 de junio",
@@ -121,42 +99,20 @@
     "fuente": "club_impro"
   },
   {
-    "titulo": "Xvii Torneo -  Octavos De Final",
+    "titulo": "Xvii Torneo -  Cuartos De Final",
     "tipo": "show",
     "fecha": "",
     "sala": "El Club de la Impro",
     "direccion": "C/ Santa Ana, 6, Madrid",
     "precio": null,
-    "url_entradas": "https://www.elclubdelaimpro.com/events/xvii-torneo-octavos-de-final-2026-05-29-21-30",
-    "url_info": "https://www.elclubdelaimpro.com/events/xvii-torneo-octavos-de-final-2026-05-29-21-30",
+    "url_entradas": "https://www.elclubdelaimpro.com/events/xvii-torneo-cuartos-de-final-2026-06-05-21-30",
+    "url_info": "https://www.elclubdelaimpro.com/events/xvii-torneo-cuartos-de-final-2026-06-05-21-30",
     "fuente": "club_impro"
-  },
-  {
-    "titulo": "Artylógico",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "El Club de la Impro",
-    "direccion": "C/ Santa Ana, 6, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.elclubdelaimpro.com/events/artylogico-62",
-    "url_info": "https://www.elclubdelaimpro.com/events/artylogico-62",
-    "fuente": "club_impro"
-  },
-  {
-    "titulo": "Corta el Cable Rojo, en Madrid",
-    "tipo": "show",
-    "fecha": "28 may al 04 jul",
-    "sala": "Pequeño Teatro Gran Vía",
-    "direccion": "Madrid",
-    "precio": "29€",
-    "url_entradas": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4818068/",
-    "url_info": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4818068/",
-    "fuente": "atrapalo"
   },
   {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "29 may al 05 sep",
+    "fecha": "05 jun al 05 sep",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
@@ -165,9 +121,20 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Corta el Cable Rojo, en Madrid",
+    "tipo": "show",
+    "fecha": "04 jun al 04 jul",
+    "sala": "Pequeño Teatro Gran Vía",
+    "direccion": "Madrid",
+    "precio": "29€",
+    "url_entradas": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4818068/",
+    "url_info": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4818068/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Impro Top Madrid",
     "tipo": "show",
-    "fecha": "28 may al 01 ago",
+    "fecha": "04 jun al 01 ago",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
     "precio": "8€",
@@ -178,23 +145,12 @@
   {
     "titulo": "Jamming",
     "tipo": "show",
-    "fecha": "29 may al 27 jun",
+    "fecha": "05 jun al 27 jun",
     "sala": "Teatro Maravillas",
     "direccion": "Madrid",
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/jamming_e4940222/",
     "url_info": "https://www.atrapalo.com/entradas/jamming_e4940222/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Los Gilipollas",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
-    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
     "fuente": "atrapalo"
   },
   {
@@ -206,6 +162,17 @@
     "precio": "10€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
     "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Remón & Romera",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "La Usina",
+    "direccion": "Madrid",
+    "precio": "13€",
+    "url_entradas": "https://www.atrapalo.com/entradas/remon-i-romera_e4914016/",
+    "url_info": "https://www.atrapalo.com/entradas/remon-i-romera_e4914016/",
     "fuente": "atrapalo"
   },
   {
@@ -222,7 +189,7 @@
   {
     "titulo": "Juegos Nocturnos Impro",
     "tipo": "show",
-    "fecha": "30 may al 18 jul",
+    "fecha": "06 jun al 18 jul",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
     "precio": "9€",
@@ -231,14 +198,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Misión Improsible",
+    "titulo": "Voz & Voz",
     "tipo": "show",
     "fecha": "",
-    "sala": "Teseo Teatro",
+    "sala": "Abonavida",
     "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
-    "url_info": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
+    "precio": "4€",
+    "url_entradas": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
+    "url_info": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
     "fuente": "atrapalo"
   },
   {
@@ -253,28 +220,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Corral de Comedia (micro abierto)",
-    "tipo": "show",
-    "fecha": "28 may al 18 jun",
-    "sala": "Jíbaro Café Ba",
-    "direccion": "Madrid",
-    "precio": "5€",
-    "url_entradas": "https://www.atrapalo.com/entradas/corral-de-comedia-micro-abierto-_e4904214/",
-    "url_info": "https://www.atrapalo.com/entradas/corral-de-comedia-micro-abierto-_e4904214/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Remón & Romera",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Usina",
-    "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/remon-i-romera_e4914016/",
-    "url_info": "https://www.atrapalo.com/entradas/remon-i-romera_e4914016/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "¡Salta! Jam de impro de Modo Impro",
     "tipo": "taller",
     "fecha": "",
@@ -283,6 +228,50 @@
     "precio": "7€",
     "url_entradas": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
     "url_info": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Serie Maniaks",
+    "tipo": "show",
+    "fecha": "14 jun al 27 jun",
+    "sala": "OFF LATINA",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Los Gilipollas",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Sala WIT",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Corral de Comedia (micro abierto)",
+    "tipo": "show",
+    "fecha": "03 jun al 18 jun",
+    "sala": "Jíbaro Café Ba",
+    "direccion": "Madrid",
+    "precio": "2€",
+    "url_entradas": "https://www.atrapalo.com/entradas/corral-de-comedia-micro-abierto-_e4904214/",
+    "url_info": "https://www.atrapalo.com/entradas/corral-de-comedia-micro-abierto-_e4904214/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Misión Improsible",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Teseo Teatro",
+    "direccion": "Madrid",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
+    "url_info": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
     "fuente": "atrapalo"
   },
   {
@@ -297,42 +286,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Serie Maniaks",
-    "tipo": "show",
-    "fecha": "31 may al 27 jun",
-    "sala": "OFF LATINA",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impropios Airlines",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "SOJO Laboratorio teatral",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impropios-airlines_e4876815/",
-    "url_info": "https://www.atrapalo.com/entradas/impropios-airlines_e4876815/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "ResolveSA",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "El Pasillo Verde Teatro",
-    "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/resolvesa_e4913742/",
-    "url_info": "https://www.atrapalo.com/entradas/resolvesa_e4913742/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Wit Wars",
     "tipo": "show",
-    "fecha": "29 may al 19 jun",
+    "fecha": "05 jun al 19 jun",
     "sala": "Sala WIT",
     "direccion": "Madrid",
     "precio": "6€",
@@ -341,20 +297,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "El banco",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
-    "direccion": "Madrid",
-    "precio": "6€",
-    "url_entradas": "https://www.atrapalo.com/entradas/el-banco_e4874869/",
-    "url_info": "https://www.atrapalo.com/entradas/el-banco_e4874869/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "28 may al 25 jun",
+    "fecha": "04 jun al 25 jun",
     "sala": "Espacio Broadway (Madrid)",
     "direccion": "Madrid",
     "precio": null,
@@ -363,20 +308,20 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Teatro en bolas",
+    "titulo": "Desafina en la Oficina",
     "tipo": "show",
-    "fecha": "26 may al 21 jul",
-    "sala": "Teatro Lara - Sala Lola Membrives",
+    "fecha": "07 jun al 21 jun",
+    "sala": "La Sala de la Impro",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/teatro-en-bolas_e4943572/",
-    "url_info": "https://www.atrapalo.com/entradas/teatro-en-bolas_e4943572/",
+    "precio": "12€",
+    "url_entradas": "https://www.atrapalo.com/entradas/desafina-en-la-oficina_e4948787/",
+    "url_info": "https://www.atrapalo.com/entradas/desafina-en-la-oficina_e4948787/",
     "fuente": "atrapalo"
   },
   {
     "titulo": "Making comedy show",
     "tipo": "show",
-    "fecha": "26 may al 25 jun",
+    "fecha": "11 jun al 25 jun",
     "sala": "Teatro Arlequín Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -385,36 +330,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Match",
+    "titulo": "Teatro en bolas",
     "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Soho Madrid",
+    "fecha": "02 jun al 21 jul",
+    "sala": "Teatro Lara - Sala Lola Membrives",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-match_e4940292/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-match_e4940292/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Escondido Gran Vía",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
-    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro de verano",
-    "tipo": "show",
-    "fecha": "19 jun al 21 jun",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
+    "url_entradas": "https://www.atrapalo.com/entradas/teatro-en-bolas_e4943572/",
+    "url_info": "https://www.atrapalo.com/entradas/teatro-en-bolas_e4943572/",
     "fuente": "atrapalo"
   },
   {
@@ -429,6 +352,17 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Impro de verano",
+    "tipo": "show",
+    "fecha": "19 jun al 21 jun",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Resilientes",
     "tipo": "show",
     "fecha": "",
@@ -440,47 +374,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Bingo Risa",
+    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
     "tipo": "show",
     "fecha": "",
-    "sala": "La Butaca Amarilla",
+    "sala": "Teatro Escondido Gran Vía",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/bingo-risa_e4943149/",
-    "url_info": "https://www.atrapalo.com/entradas/bingo-risa_e4943149/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Me vale cualquiera",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
-    "direccion": "Madrid",
-    "precio": "6€",
-    "url_entradas": "https://www.atrapalo.com/entradas/me-vale-cualquiera_e4947312/",
-    "url_info": "https://www.atrapalo.com/entradas/me-vale-cualquiera_e4947312/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "La Impro de mi vida, en Huertas",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Parroquia del Humor",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
-    "url_info": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Homo Sapiens",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Salto escénico",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/homo-sapiens_e4932086/",
-    "url_info": "https://www.atrapalo.com/entradas/homo-sapiens_e4932086/",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
+    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
     "fuente": "atrapalo"
   },
   {
@@ -495,14 +396,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Todos menos Carlos II Tokio Drift",
+    "titulo": "La Impro de mi vida, en Huertas",
     "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
+    "fecha": "11 jun al 21 jun",
+    "sala": "La Parroquia del Humor",
     "direccion": "Madrid",
-    "precio": "6€",
-    "url_entradas": "https://www.atrapalo.com/entradas/todos-menos-carlos-ii-tokio-drift_e4948636/",
-    "url_info": "https://www.atrapalo.com/entradas/todos-menos-carlos-ii-tokio-drift_e4948636/",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
+    "url_info": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
     "fuente": "atrapalo"
   },
   {
@@ -525,6 +426,17 @@
     "precio": "6€",
     "url_entradas": "https://www.atrapalo.com/entradas/la-maleta_e4895630/",
     "url_info": "https://www.atrapalo.com/entradas/la-maleta_e4895630/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Todos menos Carlos II Tokio Drift",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Sala WIT",
+    "direccion": "Madrid",
+    "precio": "6€",
+    "url_entradas": "https://www.atrapalo.com/entradas/todos-menos-carlos-ii-tokio-drift_e4948636/",
+    "url_info": "https://www.atrapalo.com/entradas/todos-menos-carlos-ii-tokio-drift_e4948636/",
     "fuente": "atrapalo"
   },
   {

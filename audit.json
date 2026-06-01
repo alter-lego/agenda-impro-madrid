@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-05-25T22:53:24",
+  "fecha_ejecucion": "2026-06-01T13:48:43",
   "fuentes_auditadas": 5,
-  "total_eventos": 55,
-  "total_alertas": 29,
+  "total_eventos": 44,
+  "total_alertas": 20,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-05-25T22:53:24",
+      "fecha_ejecucion": "2026-06-01T13:48:43",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -16,42 +16,37 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:53:24",
+      "fecha_ejecucion": "2026-06-01T13:48:43",
       "fuente": "teatro_asura",
-      "eventos_recibidos": 2,
-      "eventos_validos": 2,
-      "num_alertas": 2,
+      "eventos_recibidos": 1,
+      "eventos_validos": 1,
+      "num_alertas": 1,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Noche De Impro",
           "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Match De Improvisación",
-          "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:53:24",
+      "fecha_ejecucion": "2026-06-01T13:48:43",
       "fuente": "global_impro",
-      "eventos_recibidos": 3,
-      "eventos_validos": 3,
+      "eventos_recibidos": 2,
+      "eventos_validos": 2,
       "num_alertas": 0,
       "num_alertas_graves": 0,
       "alertas": [],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:53:24",
+      "fecha_ejecucion": "2026-06-01T13:48:43",
       "fuente": "club_impro",
-      "eventos_recibidos": 4,
-      "eventos_validos": 4,
-      "num_alertas": 4,
+      "eventos_recibidos": 3,
+      "eventos_validos": 3,
+      "num_alertas": 3,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -66,33 +61,28 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Xvii Torneo -  Octavos De Final",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Artylógico",
+          "evento": "Xvii Torneo -  Cuartos De Final",
           "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-05-25T22:53:24",
+      "fecha_ejecucion": "2026-06-01T13:48:43",
       "fuente": "atrapalo",
-      "eventos_recibidos": 42,
-      "eventos_validos": 42,
-      "num_alertas": 23,
+      "eventos_recibidos": 34,
+      "eventos_validos": 34,
+      "num_alertas": 16,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Los Gilipollas",
+          "evento": "Remón & Romera",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Misión Improsible",
+          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -102,37 +92,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Remón & Romera",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
           "evento": "¡Salta! Jam de impro de Modo Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impropios Airlines",
+          "evento": "Los Gilipollas",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "ResolveSA",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "El banco",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Impro Match",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
+          "evento": "Misión Improsible",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -147,32 +117,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Bingo Risa",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Me vale cualquiera",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "La Impro de mi vida, en Huertas",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Homo Sapiens",
+          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "El Show de Chares y Teresa",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Todos menos Carlos II Tokio Drift",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -183,6 +133,11 @@
         {
           "tipo": "campo_vacio_fecha",
           "evento": "La Maleta",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Todos menos Carlos II Tokio Drift",
           "detalle": "fecha vacía (aviso)"
         },
         {
