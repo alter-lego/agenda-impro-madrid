@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-06-01T13:48:43",
+  "fecha_ejecucion": "2026-06-08T12:40:42",
   "fuentes_auditadas": 5,
-  "total_eventos": 44,
-  "total_alertas": 20,
+  "total_eventos": 43,
+  "total_alertas": 16,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-06-01T13:48:43",
+      "fecha_ejecucion": "2026-06-08T12:40:42",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-01T13:48:43",
+      "fecha_ejecucion": "2026-06-08T12:40:42",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -32,7 +32,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-01T13:48:43",
+      "fecha_ejecucion": "2026-06-08T12:40:42",
       "fuente": "global_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -42,11 +42,11 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-01T13:48:43",
+      "fecha_ejecucion": "2026-06-08T12:40:42",
       "fuente": "club_impro",
-      "eventos_recibidos": 3,
-      "eventos_validos": 3,
-      "num_alertas": 3,
+      "eventos_recibidos": 4,
+      "eventos_validos": 4,
+      "num_alertas": 4,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -63,26 +63,26 @@
           "tipo": "campo_vacio_fecha",
           "evento": "Xvii Torneo -  Cuartos De Final",
           "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Lo Breve Si Bueno (Muestra De Microteatros De Dramaturgia)",
+          "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-01T13:48:43",
+      "fecha_ejecucion": "2026-06-08T12:40:42",
       "fuente": "atrapalo",
-      "eventos_recibidos": 34,
-      "eventos_validos": 34,
-      "num_alertas": 16,
+      "eventos_recibidos": 32,
+      "eventos_validos": 32,
+      "num_alertas": 11,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Remón & Romera",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Voz & Voz",
+          "evento": "Misión Improsible",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -97,27 +97,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Los Gilipollas",
+          "evento": "Remón & Romera",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Misión Improsible",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Otra Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Resilientes",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
+          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -127,7 +112,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "El más acá del más allá",
+          "evento": "Otra Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -137,12 +122,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Todos menos Carlos II Tokio Drift",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Resilientes ImproShow",
+          "evento": "El más acá del más allá",
           "detalle": "fecha vacía (aviso)"
         },
         {
