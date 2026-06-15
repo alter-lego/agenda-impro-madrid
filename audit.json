@@ -1,22 +1,28 @@
 {
-  "fecha_ejecucion": "2026-06-08T12:40:42",
-  "fuentes_auditadas": 5,
-  "total_eventos": 43,
-  "total_alertas": 16,
+  "fecha_ejecucion": "2026-06-15T14:31:55",
+  "fuentes_auditadas": 4,
+  "total_eventos": 42,
+  "total_alertas": 24,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-06-08T12:40:42",
+      "fecha_ejecucion": "2026-06-15T14:31:55",
       "fuente": "escalera_jacob",
-      "eventos_recibidos": 4,
-      "eventos_validos": 4,
-      "num_alertas": 0,
-      "num_alertas_graves": 0,
-      "alertas": [],
+      "eventos_recibidos": 5,
+      "eventos_validos": 5,
+      "num_alertas": 1,
+      "num_alertas_graves": 1,
+      "alertas": [
+        {
+          "tipo": "fecha_pasada",
+          "evento": "La Jam De La Escalera",
+          "detalle": "fecha_inicio detectada: 2026-05-31 (anterior a hoy 2026-06-15)"
+        }
+      ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-08T12:40:42",
+      "fecha_ejecucion": "2026-06-15T14:31:55",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -32,21 +38,11 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-08T12:40:42",
-      "fuente": "global_impro",
-      "eventos_recibidos": 2,
-      "eventos_validos": 2,
-      "num_alertas": 0,
-      "num_alertas_graves": 0,
-      "alertas": [],
-      "bloqueado": false
-    },
-    {
-      "fecha_ejecucion": "2026-06-08T12:40:42",
+      "fecha_ejecucion": "2026-06-15T14:31:55",
       "fuente": "club_impro",
-      "eventos_recibidos": 4,
-      "eventos_validos": 4,
-      "num_alertas": 4,
+      "eventos_recibidos": 5,
+      "eventos_validos": 5,
+      "num_alertas": 5,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -61,38 +57,43 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Xvii Torneo -  Cuartos De Final",
+          "evento": "Lo Breve Si Bueno (Muestra De Microteatros De Dramaturgia)",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Lo Breve Si Bueno (Muestra De Microteatros De Dramaturgia)",
+          "evento": "Xvii Torneo -  ¡1° Semifinal!",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Xvii Torneo -  ¡2° Semifinal!",
           "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-08T12:40:42",
+      "fecha_ejecucion": "2026-06-15T14:31:55",
       "fuente": "atrapalo",
-      "eventos_recibidos": 32,
-      "eventos_validos": 32,
-      "num_alertas": 11,
+      "eventos_recibidos": 31,
+      "eventos_validos": 31,
+      "num_alertas": 17,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Misión Improsible",
+          "evento": "Los Gilipollas",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro 1",
+          "evento": "Serie Maniaks",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "¡Salta! Jam de impro de Modo Impro",
+          "evento": "ImproCafé Show",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -102,12 +103,37 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Voz & Voz",
+          "evento": "Impro 1",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "El Show de Chares y Teresa",
+          "evento": "Corral de Comedia (micro abierto)",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "La ira del gran Tiki",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Wit Wars",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Barbu2 Impro",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Misión Improsible",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "La Jam de la Escalera",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -123,6 +149,11 @@
         {
           "tipo": "campo_vacio_fecha",
           "evento": "El más acá del más allá",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Luis Mi - Improtóxico",
           "detalle": "fecha vacía (aviso)"
         },
         {
