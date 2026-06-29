@@ -1,19 +1,8 @@
 [
   {
-    "titulo": "El Match De Impro De La Escalera",
-    "tipo": "show",
-    "fecha": "Hasta el 30 jun",
-    "sala": "La Escalera de Jacob",
-    "direccion": "C/ Lavapiés 9, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.laescaleradejacob.es/cartelera/el-match-de-impro-de-la-escalera/",
-    "url_info": "https://www.laescaleradejacob.es/cartelera/el-match-de-impro-de-la-escalera/",
-    "fuente": "escalera_jacob"
-  },
-  {
     "titulo": "Improcafé Show",
     "tipo": "show",
-    "fecha": "Hasta el 30 jun",
+    "fecha": "Hasta el 31 jul",
     "sala": "La Escalera de Jacob",
     "direccion": "C/ Lavapiés 9, Madrid",
     "precio": null,
@@ -22,20 +11,9 @@
     "fuente": "escalera_jacob"
   },
   {
-    "titulo": "La Cocina De Impro Café",
-    "tipo": "show",
-    "fecha": "Hasta el 30 jun",
-    "sala": "La Escalera de Jacob",
-    "direccion": "C/ Lavapiés 9, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.laescaleradejacob.es/cartelera/la-cocina-de-impro-cafe/",
-    "url_info": "https://www.laescaleradejacob.es/cartelera/la-cocina-de-impro-cafe/",
-    "fuente": "escalera_jacob"
-  },
-  {
     "titulo": "La Ira Del Gran Tiki",
     "tipo": "show",
-    "fecha": "Hasta el 30 jun",
+    "fecha": "Hasta el 28 jul",
     "sala": "La Escalera de Jacob",
     "direccion": "C/ Lavapiés 9, Madrid",
     "precio": null,
@@ -68,7 +46,7 @@
   {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "26 jun al 05 sep",
+    "fecha": "02 jul al 05 sep",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
@@ -79,7 +57,7 @@
   {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "24 jun al 13 sep",
+    "fecha": "01 jul al 13 sep",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": "30€",
@@ -88,31 +66,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Top Madrid",
-    "tipo": "show",
-    "fecha": "27 jun al 30 ago",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Juegos Nocturnos Impro",
-    "tipo": "show",
-    "fecha": "27 jun al 18 jul",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Jamming",
     "tipo": "show",
-    "fecha": "26 jun al 27 jun",
+    "fecha": "21 ago al 31 oct",
     "sala": "Teatro Maravillas",
     "direccion": "Madrid",
     "precio": null,
@@ -121,25 +77,36 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro de una noche de... Primavera",
+    "titulo": "Juegos Nocturnos Impro",
     "tipo": "show",
-    "fecha": "26 jun al 28 jun",
-    "sala": "La Sala de la Impro",
+    "fecha": "11 jul al 18 jul",
+    "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La cocina de Impro",
+    "titulo": "Impro Top Madrid",
+    "tipo": "show",
+    "fecha": "04 jul al 30 ago",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Voz & Voz",
     "tipo": "show",
     "fecha": "",
-    "sala": "La Escalera de Jacob",
+    "sala": "Abonavida",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
-    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "precio": "4€",
+    "url_entradas": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
+    "url_info": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
     "fuente": "atrapalo"
   },
   {
@@ -151,39 +118,6 @@
     "precio": "13€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
     "url_info": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Serie Maniaks",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "OFF LATINA",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "¡Salta! Jam de impro de Modo Impro",
-    "tipo": "taller",
-    "fecha": "",
-    "sala": "Modo Impro",
-    "direccion": "Madrid",
-    "precio": "7€",
-    "url_entradas": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
-    "url_info": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "12€",
-    "url_entradas": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
-    "url_info": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
     "fuente": "atrapalo"
   },
   {
@@ -209,36 +143,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Misión Improsible",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teseo Teatro",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
-    "url_info": "https://www.atrapalo.com/entradas/mision-improsible_e4927905/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "25 jun al 27 ago",
-    "sala": "Espacio Broadway (Madrid)",
+    "fecha": "02 jul al 27 ago",
+    "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4924089/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4924089/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Voz & Voz",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Abonavida",
-    "direccion": "Madrid",
-    "precio": "4€",
-    "url_entradas": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
-    "url_info": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
     "fuente": "atrapalo"
   },
   {
@@ -255,7 +167,7 @@
   {
     "titulo": "Teatro en bolas",
     "tipo": "show",
-    "fecha": "23 jun al 21 jul",
+    "fecha": "30 jun al 21 jul",
     "sala": "Teatro Lara - Sala Lola Membrives",
     "direccion": "Madrid",
     "precio": null,
@@ -266,7 +178,7 @@
   {
     "titulo": "Making comedy show",
     "tipo": "show",
-    "fecha": "25 jun al 20 oct",
+    "fecha": "29 sep al 20 oct",
     "sala": "Teatro Arlequín Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -286,14 +198,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Jamming Hits",
+    "titulo": "Impro Jlobo",
     "tipo": "show",
     "fecha": "",
-    "sala": "Teatro Real Carlos III de Aranjuez",
+    "sala": "Platea Café Teatro Rivas Vaciamadrid",
     "direccion": "Madrid",
-    "precio": "17€",
-    "url_entradas": "https://www.atrapalo.com/entradas/jamming-hits_e4945365/",
-    "url_info": "https://www.atrapalo.com/entradas/jamming-hits_e4945365/",
+    "precio": "14€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
     "fuente": "atrapalo"
   }
 ]

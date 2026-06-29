@@ -1,22 +1,22 @@
 {
-  "fecha_ejecucion": "2026-06-22T13:41:39",
+  "fecha_ejecucion": "2026-06-29T12:43:56",
   "fuentes_auditadas": 3,
-  "total_eventos": 28,
-  "total_alertas": 13,
+  "total_eventos": 21,
+  "total_alertas": 7,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-06-22T13:41:39",
+      "fecha_ejecucion": "2026-06-29T12:43:56",
       "fuente": "escalera_jacob",
-      "eventos_recibidos": 4,
-      "eventos_validos": 4,
+      "eventos_recibidos": 2,
+      "eventos_validos": 2,
       "num_alertas": 0,
       "num_alertas_graves": 0,
       "alertas": [],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-22T13:41:39",
+      "fecha_ejecucion": "2026-06-29T12:43:56",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,21 +37,16 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-06-22T13:41:39",
+      "fecha_ejecucion": "2026-06-29T12:43:56",
       "fuente": "atrapalo",
-      "eventos_recibidos": 22,
-      "eventos_validos": 22,
-      "num_alertas": 11,
+      "eventos_recibidos": 17,
+      "eventos_validos": 17,
+      "num_alertas": 5,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "La cocina de Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "La ira del gran Tiki",
+          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -61,32 +56,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Serie Maniaks",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "¡Salta! Jam de impro de Modo Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
           "evento": "Los Gilipollas",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Misión Improsible",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -96,7 +66,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Jamming Hits",
+          "evento": "Impro Jlobo",
           "detalle": "fecha vacía (aviso)"
         }
       ],
