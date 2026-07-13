@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-07-06T12:11:17",
+  "fecha_ejecucion": "2026-07-13T11:21:27",
   "fuentes_auditadas": 3,
-  "total_eventos": 24,
-  "total_alertas": 8,
+  "total_eventos": 20,
+  "total_alertas": 6,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-07-06T12:11:17",
+      "fecha_ejecucion": "2026-07-13T11:21:27",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-06T12:11:17",
+      "fecha_ejecucion": "2026-07-13T11:21:27",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,11 +37,11 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-06T12:11:17",
+      "fecha_ejecucion": "2026-07-13T11:21:27",
       "fuente": "atrapalo",
-      "eventos_recibidos": 20,
-      "eventos_validos": 20,
-      "num_alertas": 6,
+      "eventos_recibidos": 16,
+      "eventos_validos": 16,
+      "num_alertas": 4,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -51,27 +51,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "ImproCafé Show",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
           "evento": "Los Gilipollas",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Voz & Voz",
+          "evento": "Teatro en bolas",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro Jlobo",
+          "evento": "Velada de Impro",
           "detalle": "fecha vacía (aviso)"
         }
       ],

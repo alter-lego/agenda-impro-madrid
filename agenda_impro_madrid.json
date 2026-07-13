@@ -44,9 +44,20 @@
     "fuente": "club_impro"
   },
   {
+    "titulo": "Clap",
+    "tipo": "show",
+    "fecha": "16 jul al 05 sep",
+    "sala": "Teatro Sofía",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "url_info": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "08 jul al 13 sep",
+    "fecha": "15 jul al 13 sep",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": "30€",
@@ -55,14 +66,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Clap",
+    "titulo": "Impro Top Madrid",
     "tipo": "show",
-    "fecha": "10 jul al 05 sep",
-    "sala": "Teatro Sofía",
+    "fecha": "16 jul al 30 ago",
+    "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/clap_e4940468/",
-    "url_info": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
     "fuente": "atrapalo"
   },
   {
@@ -77,25 +88,25 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Top Madrid",
-    "tipo": "show",
-    "fecha": "09 jul al 30 ago",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Batallas de Impro: Las Guerras de Calamburia",
     "tipo": "show",
-    "fecha": "10 jul al 12 sep",
+    "fecha": "17 jul al 12 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "10€",
     "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
     "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Juegos Nocturnos Impro",
+    "tipo": "show",
+    "fecha": "17 jul al 18 jul",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
     "fuente": "atrapalo"
   },
   {
@@ -107,39 +118,6 @@
     "precio": "13€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
     "url_info": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Juegos Nocturnos Impro",
-    "tipo": "show",
-    "fecha": "11 jul al 18 jul",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro de una noche de... Primavera",
-    "tipo": "show",
-    "fecha": "19 jul al 30 ago",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-primavera_e4936177/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "12€",
-    "url_entradas": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
-    "url_info": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
     "fuente": "atrapalo"
   },
   {
@@ -156,7 +134,7 @@
   {
     "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
     "tipo": "show",
-    "fecha": "10 jul al 31 jul",
+    "fecha": "17 jul al 31 jul",
     "sala": "Teatro Escondido Gran Vía",
     "direccion": "Madrid",
     "precio": "8€",
@@ -165,20 +143,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Voz & Voz",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Abonavida",
-    "direccion": "Madrid",
-    "precio": "4€",
-    "url_entradas": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
-    "url_info": "https://www.atrapalo.com/entradas/voz-i-voz_e4878322/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "09 jul al 27 ago",
+    "fecha": "16 jul al 27 ago",
     "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
     "precio": null,
@@ -187,20 +154,20 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "ImproRisa",
+    "titulo": "Impro de una noche de... Verano",
     "tipo": "show",
-    "fecha": "10 jul al 12 jul",
-    "sala": "Collage Burlesque",
+    "fecha": "19 jul al 30 ago",
+    "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
-    "url_info": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
     "fuente": "atrapalo"
   },
   {
     "titulo": "Teatro en bolas",
     "tipo": "show",
-    "fecha": "07 jul al 21 jul",
+    "fecha": "",
     "sala": "Teatro Lara - Sala Lola Membrives",
     "direccion": "Madrid",
     "precio": null,
@@ -220,25 +187,25 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Velada de Impro",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Teatro Infanta Isabel",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
+    "url_info": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "La Impro de mi vida, en Huertas",
     "tipo": "show",
-    "fecha": "11 jul al 31 jul",
+    "fecha": "13 jul al 14 ago",
     "sala": "La Parroquia del Humor",
     "direccion": "Madrid",
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
     "url_info": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro Jlobo",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Platea Café Teatro Rivas Vaciamadrid",
-    "direccion": "Madrid",
-    "precio": "14€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
     "fuente": "atrapalo"
   }
 ]
