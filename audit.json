@@ -1,22 +1,22 @@
 {
-  "fecha_ejecucion": "2026-07-13T11:21:27",
+  "fecha_ejecucion": "2026-07-20T11:08:17",
   "fuentes_auditadas": 3,
-  "total_eventos": 20,
-  "total_alertas": 6,
+  "total_eventos": 19,
+  "total_alertas": 8,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-07-13T11:21:27",
+      "fecha_ejecucion": "2026-07-20T11:08:17",
       "fuente": "escalera_jacob",
-      "eventos_recibidos": 2,
-      "eventos_validos": 2,
+      "eventos_recibidos": 1,
+      "eventos_validos": 1,
       "num_alertas": 0,
       "num_alertas_graves": 0,
       "alertas": [],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-13T11:21:27",
+      "fecha_ejecucion": "2026-07-20T11:08:17",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,11 +37,11 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-13T11:21:27",
+      "fecha_ejecucion": "2026-07-20T11:08:17",
       "fuente": "atrapalo",
       "eventos_recibidos": 16,
       "eventos_validos": 16,
-      "num_alertas": 4,
+      "num_alertas": 6,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -51,7 +51,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "Cüa - El Show de impro más ganso",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Los Gilipollas",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "La ira del gran Tiki",
           "detalle": "fecha vacía (aviso)"
         },
         {
