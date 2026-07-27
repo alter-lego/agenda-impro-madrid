@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-07-20T11:08:17",
+  "fecha_ejecucion": "2026-07-27T11:33:01",
   "fuentes_auditadas": 3,
-  "total_eventos": 19,
+  "total_eventos": 18,
   "total_alertas": 8,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-07-20T11:08:17",
+      "fecha_ejecucion": "2026-07-27T11:33:01",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-20T11:08:17",
+      "fecha_ejecucion": "2026-07-27T11:33:01",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,16 +37,21 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-07-20T11:08:17",
+      "fecha_ejecucion": "2026-07-27T11:33:01",
       "fuente": "atrapalo",
-      "eventos_recibidos": 16,
-      "eventos_validos": 16,
+      "eventos_recibidos": 15,
+      "eventos_validos": 15,
       "num_alertas": 6,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Impro 1",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -62,11 +67,6 @@
         {
           "tipo": "campo_vacio_fecha",
           "evento": "La ira del gran Tiki",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Teatro en bolas",
           "detalle": "fecha vacía (aviso)"
         },
         {
