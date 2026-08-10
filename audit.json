@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-08-03T11:35:14",
+  "fecha_ejecucion": "2026-08-10T09:40:42",
   "fuentes_auditadas": 3,
-  "total_eventos": 22,
-  "total_alertas": 5,
+  "total_eventos": 26,
+  "total_alertas": 8,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-08-03T11:35:14",
+      "fecha_ejecucion": "2026-08-10T09:40:42",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 3,
       "eventos_validos": 3,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-03T11:35:14",
+      "fecha_ejecucion": "2026-08-10T09:40:42",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,11 +37,11 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-03T11:35:14",
+      "fecha_ejecucion": "2026-08-10T09:40:42",
       "fuente": "atrapalo",
-      "eventos_recibidos": 17,
-      "eventos_validos": 17,
-      "num_alertas": 3,
+      "eventos_recibidos": 21,
+      "eventos_validos": 21,
+      "num_alertas": 6,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -56,7 +56,22 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "ImproRisa",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "La Impro de mi vida, en Huertas",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Velada de Impro",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Jlobo- La Comedia que siempre llega",
           "detalle": "fecha vacía (aviso)"
         }
       ],

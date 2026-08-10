@@ -57,7 +57,7 @@
   {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "05 ago al 13 sep",
+    "fecha": "12 ago al 13 sep",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -68,12 +68,23 @@
   {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "06 ago al 26 sep",
+    "fecha": "20 ago al 26 sep",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/clap_e4940468/",
     "url_info": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
+    "tipo": "show",
+    "fecha": "28 ago al 12 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
     "fuente": "atrapalo"
   },
   {
@@ -88,42 +99,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Top Madrid",
-    "tipo": "show",
-    "fecha": "27 ago al 30 ago",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
-    "tipo": "show",
-    "fecha": "07 ago al 12 sep",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro Impar Show",
-    "tipo": "show",
-    "fecha": "06 ago al 27 ago",
-    "sala": "Axel Hotel Madrid",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
     "tipo": "show",
-    "fecha": "07 ago al 04 sep",
+    "fecha": "14 ago al 28 ago",
     "sala": "Teatro Escondido Gran Vía",
     "direccion": "Madrid",
     "precio": "8€",
@@ -132,14 +110,25 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro 1",
+    "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "",
-    "sala": "La Usina",
+    "fecha": "13 ago al 27 ago",
+    "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Al Tran Tran Impro",
+    "tipo": "show",
+    "fecha": "26 sep al 10 oct",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
+    "url_info": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
     "fuente": "atrapalo"
   },
   {
@@ -154,6 +143,17 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Impro 1",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "La Usina",
+    "direccion": "Madrid",
+    "precio": "13€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Los Gilipollas",
     "tipo": "show",
     "fecha": "",
@@ -162,6 +162,17 @@
     "precio": "9€",
     "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
     "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Impro Top Madrid",
+    "tipo": "show",
+    "fecha": "27 ago al 30 ago",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
     "fuente": "atrapalo"
   },
   {
@@ -187,6 +198,17 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "ImproRisa",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
+    "url_info": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Making comedy show",
     "tipo": "show",
     "fecha": "29 sep al 20 oct",
@@ -195,6 +217,28 @@
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/making-comedy-show_e4939537/",
     "url_info": "https://www.atrapalo.com/entradas/making-comedy-show_e4939537/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "La Impro de mi vida, en Huertas",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "La Parroquia del Humor",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
+    "url_info": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Otra Impro",
+    "tipo": "show",
+    "fecha": "27 ago al 05 oct",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
+    "url_info": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
     "fuente": "atrapalo"
   },
   {
@@ -209,14 +253,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La Impro de mi vida, en Huertas",
+    "titulo": "Jlobo- La Comedia que siempre llega",
     "tipo": "show",
-    "fecha": "05 ago al 14 ago",
-    "sala": "La Parroquia del Humor",
+    "fecha": "",
+    "sala": "La Butaca Amarilla",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
-    "url_info": "https://www.atrapalo.com/entradas/la-impro-de-mi-vida-en-huertas_e4922110/",
+    "precio": "14€",
+    "url_entradas": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
+    "url_info": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
     "fuente": "atrapalo"
   }
 ]
