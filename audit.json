@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-08-10T09:40:42",
+  "fecha_ejecucion": "2026-08-17T08:52:03",
   "fuentes_auditadas": 3,
-  "total_eventos": 26,
+  "total_eventos": 28,
   "total_alertas": 8,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-08-10T09:40:42",
+      "fecha_ejecucion": "2026-08-17T08:52:03",
       "fuente": "escalera_jacob",
       "eventos_recibidos": 3,
       "eventos_validos": 3,
@@ -16,7 +16,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-10T09:40:42",
+      "fecha_ejecucion": "2026-08-17T08:52:03",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,10 +37,10 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-10T09:40:42",
+      "fecha_ejecucion": "2026-08-17T08:52:03",
       "fuente": "atrapalo",
-      "eventos_recibidos": 21,
-      "eventos_validos": 21,
+      "eventos_recibidos": 23,
+      "eventos_validos": 23,
       "num_alertas": 6,
       "num_alertas_graves": 0,
       "alertas": [
@@ -56,12 +56,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "ImproRisa",
+          "evento": "Barbu2 Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "La Impro de mi vida, en Huertas",
+          "evento": "Impro de verano",
           "detalle": "fecha vacía (aviso)"
         },
         {
