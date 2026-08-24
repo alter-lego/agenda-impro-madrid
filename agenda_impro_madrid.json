@@ -1,38 +1,5 @@
 [
   {
-    "titulo": "El Match De Impro De La Escalera",
-    "tipo": "show",
-    "fecha": "Hasta el 30 sep",
-    "sala": "La Escalera de Jacob",
-    "direccion": "C/ Lavapiés 9, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.laescaleradejacob.es/cartelera/el-match-de-impro-de-la-escalera/",
-    "url_info": "https://www.laescaleradejacob.es/cartelera/el-match-de-impro-de-la-escalera/",
-    "fuente": "escalera_jacob"
-  },
-  {
-    "titulo": "Improcafé Show",
-    "tipo": "show",
-    "fecha": "Hasta el 24 sep",
-    "sala": "La Escalera de Jacob",
-    "direccion": "C/ Lavapiés 9, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.laescaleradejacob.es/cartelera/improcafe-show/",
-    "url_info": "https://www.laescaleradejacob.es/cartelera/improcafe-show/",
-    "fuente": "escalera_jacob"
-  },
-  {
-    "titulo": "La Ira Del Gran Tiki",
-    "tipo": "show",
-    "fecha": "Hasta el 29 sep",
-    "sala": "La Escalera de Jacob",
-    "direccion": "C/ Lavapiés 9, Madrid",
-    "precio": null,
-    "url_entradas": "https://www.laescaleradejacob.es/cartelera/la-ira-del-gran-tiki/",
-    "url_info": "https://www.laescaleradejacob.es/cartelera/la-ira-del-gran-tiki/",
-    "fuente": "escalera_jacob"
-  },
-  {
     "titulo": "Improdimensional",
     "tipo": "show",
     "fecha": "",
@@ -57,7 +24,7 @@
   {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "20 ago al 26 sep",
+    "fecha": "27 ago al 26 sep",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
@@ -68,7 +35,7 @@
   {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "19 ago al 29 nov",
+    "fecha": "26 ago al 29 nov",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -99,6 +66,28 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Impro de una noche de... Verano",
+    "tipo": "show",
+    "fecha": "29 ago al 30 ago",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
+    "tipo": "show",
+    "fecha": "28 ago al 03 oct",
+    "sala": "Teatro Escondido Gran Vía",
+    "direccion": "Madrid",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
+    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Cüa - El Show de impro más ganso",
     "tipo": "show",
     "fecha": "24 oct al 26 dic",
@@ -110,20 +99,20 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
+    "titulo": "ImproCafé Show",
     "tipo": "show",
-    "fecha": "21 ago al 28 ago",
-    "sala": "Teatro Escondido Gran Vía",
+    "fecha": "10 sep al 24 sep",
+    "sala": "La Escalera de Jacob",
     "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
-    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
+    "url_info": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
     "fuente": "atrapalo"
   },
   {
     "titulo": "Juegos Nocturnos Impro",
     "tipo": "show",
-    "fecha": "05 sep al 30 nov",
+    "fecha": "05 sep al 30 oct",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
     "precio": "9€",
@@ -132,14 +121,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro de una noche de... Verano",
+    "titulo": "Serie Maniaks",
     "tipo": "show",
-    "fecha": "21 ago al 30 ago",
-    "sala": "La Sala de la Impro",
+    "fecha": "02 oct al 18 dic",
+    "sala": "OFF LATINA",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
     "fuente": "atrapalo"
   },
   {
@@ -154,14 +143,25 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
+    "titulo": "La cocina de Impro",
     "tipo": "show",
-    "fecha": "28 ago al 12 sep",
+    "fecha": "20 sep al 27 sep",
+    "sala": "La Escalera de Jacob",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
+    "tipo": "show",
+    "fecha": "06 sep al 27 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "precio": "12€",
+    "url_entradas": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
+    "url_info": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
     "fuente": "atrapalo"
   },
   {
@@ -176,17 +176,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La cocina de Impro",
-    "tipo": "show",
-    "fecha": "20 sep al 27 sep",
-    "sala": "La Escalera de Jacob",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
-    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Los Gilipollas",
     "tipo": "show",
     "fecha": "",
@@ -198,14 +187,36 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "La ira del gran Tiki",
+    "tipo": "show",
+    "fecha": "15 sep al 29 sep",
+    "sala": "La Escalera de Jacob",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
+    "url_info": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "20 ago al 24 dic",
+    "fecha": "27 ago al 24 dic",
     "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
     "precio": "10€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
     "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "El Banco - Show de improvisación",
+    "tipo": "show",
+    "fecha": "05 sep al 26 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
+    "url_info": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
     "fuente": "atrapalo"
   },
   {
@@ -217,6 +228,17 @@
     "precio": "12€",
     "url_entradas": "https://www.atrapalo.com/entradas/barbu2-impro_e4916574/",
     "url_info": "https://www.atrapalo.com/entradas/barbu2-impro_e4916574/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
+    "tipo": "show",
+    "fecha": "28 ago al 12 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
     "fuente": "atrapalo"
   },
   {
@@ -264,17 +286,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Velada de Impro",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Infanta Isabel",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
-    "url_info": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Jlobo- La Comedia que siempre llega",
     "tipo": "show",
     "fecha": "",
@@ -283,6 +294,17 @@
     "precio": "14€",
     "url_entradas": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
     "url_info": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Velada de Impro",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Teatro Infanta Isabel",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
+    "url_info": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
     "fuente": "atrapalo"
   }
 ]

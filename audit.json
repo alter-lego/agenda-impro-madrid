@@ -1,22 +1,12 @@
 {
-  "fecha_ejecucion": "2026-08-17T08:52:03",
-  "fuentes_auditadas": 3,
+  "fecha_ejecucion": "2026-08-24T08:56:06",
+  "fuentes_auditadas": 2,
   "total_eventos": 28,
   "total_alertas": 8,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-08-17T08:52:03",
-      "fuente": "escalera_jacob",
-      "eventos_recibidos": 3,
-      "eventos_validos": 3,
-      "num_alertas": 0,
-      "num_alertas_graves": 0,
-      "alertas": [],
-      "bloqueado": false
-    },
-    {
-      "fecha_ejecucion": "2026-08-17T08:52:03",
+      "fecha_ejecucion": "2026-08-24T08:56:06",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -37,10 +27,10 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-17T08:52:03",
+      "fecha_ejecucion": "2026-08-24T08:56:06",
       "fuente": "atrapalo",
-      "eventos_recibidos": 23,
-      "eventos_validos": 23,
+      "eventos_recibidos": 26,
+      "eventos_validos": 26,
       "num_alertas": 6,
       "num_alertas_graves": 0,
       "alertas": [
@@ -66,12 +56,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Velada de Impro",
+          "evento": "Jlobo- La Comedia que siempre llega",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Jlobo- La Comedia que siempre llega",
+          "evento": "Velada de Impro",
           "detalle": "fecha vacía (aviso)"
         }
       ],
