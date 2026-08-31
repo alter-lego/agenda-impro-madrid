@@ -1,12 +1,28 @@
 {
-  "fecha_ejecucion": "2026-08-24T08:56:06",
-  "fuentes_auditadas": 2,
-  "total_eventos": 28,
-  "total_alertas": 8,
+  "fecha_ejecucion": "2026-08-31T16:04:37",
+  "fuentes_auditadas": 3,
+  "total_eventos": 30,
+  "total_alertas": 12,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-08-24T08:56:06",
+      "fecha_ejecucion": "2026-08-31T16:04:37",
+      "fuente": "teatro_asura",
+      "eventos_recibidos": 1,
+      "eventos_validos": 1,
+      "num_alertas": 1,
+      "num_alertas_graves": 0,
+      "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Noche De Impro",
+          "detalle": "fecha vacía (aviso)"
+        }
+      ],
+      "bloqueado": false
+    },
+    {
+      "fecha_ejecucion": "2026-08-31T16:04:37",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -27,13 +43,18 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-24T08:56:06",
+      "fecha_ejecucion": "2026-08-31T16:04:37",
       "fuente": "atrapalo",
-      "eventos_recibidos": 26,
-      "eventos_validos": 26,
-      "num_alertas": 6,
+      "eventos_recibidos": 27,
+      "eventos_validos": 27,
+      "num_alertas": 9,
       "num_alertas_graves": 0,
       "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
+          "detalle": "fecha vacía (aviso)"
+        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Impro 1",
@@ -51,7 +72,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro de verano",
+          "evento": "Velada de Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -61,7 +82,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Velada de Impro",
+          "evento": "Impro de verano",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Impro Jlobo",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Todo puede pasar",
           "detalle": "fecha vacía (aviso)"
         }
       ],
