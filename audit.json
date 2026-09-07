@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-08-31T16:04:37",
+  "fecha_ejecucion": "2026-09-07T14:10:05",
   "fuentes_auditadas": 3,
-  "total_eventos": 30,
-  "total_alertas": 12,
+  "total_eventos": 31,
+  "total_alertas": 13,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-08-31T16:04:37",
+      "fecha_ejecucion": "2026-09-07T14:10:05",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -22,7 +22,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-31T16:04:37",
+      "fecha_ejecucion": "2026-09-07T14:10:05",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -43,13 +43,18 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-08-31T16:04:37",
+      "fecha_ejecucion": "2026-09-07T14:10:05",
       "fuente": "atrapalo",
-      "eventos_recibidos": 27,
-      "eventos_validos": 27,
-      "num_alertas": 9,
+      "eventos_recibidos": 28,
+      "eventos_validos": 28,
+      "num_alertas": 10,
       "num_alertas_graves": 0,
       "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Los Gilipollas",
+          "detalle": "fecha vacía (aviso)"
+        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "PalabrerIA - Bonifacético y Yago Valverde",
@@ -62,12 +67,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Los Gilipollas",
+          "evento": "Barbu2 Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Barbu2 Impro",
+          "evento": "Impro de verano",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -82,12 +87,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro de verano",
+          "evento": "Impro Jlobo",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro Jlobo",
+          "evento": "Amiguis",
           "detalle": "fecha vacía (aviso)"
         },
         {

@@ -33,20 +33,9 @@
     "fuente": "club_impro"
   },
   {
-    "titulo": "Corta el Cable Rojo, en Madrid",
-    "tipo": "show",
-    "fecha": "02 sep al 29 nov",
-    "sala": "Pequeño Teatro Gran Vía",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4951266/",
-    "url_info": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4951266/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "03 sep al 31 oct",
+    "fecha": "11 sep al 31 oct",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
@@ -55,20 +44,20 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Top Madrid",
+    "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "03 sep al 30 ago",
-    "sala": "Collage Burlesque",
+    "fecha": "10 sep al 29 nov",
+    "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4951266/",
+    "url_info": "https://www.atrapalo.com/entradas/corta-el-cable-rojo-en-madrid_e4951266/",
     "fuente": "atrapalo"
   },
   {
     "titulo": "Jamming",
     "tipo": "show",
-    "fecha": "04 sep al 31 oct",
+    "fecha": "11 sep al 31 oct",
     "sala": "Teatro Maravillas",
     "direccion": "Madrid",
     "precio": null,
@@ -77,9 +66,42 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Impro Top Madrid",
+    "tipo": "show",
+    "fecha": "10 sep al 30 ago",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-top-madrid_e4924834/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Juegos Nocturnos Impro",
+    "tipo": "show",
+    "fecha": "12 sep al 30 oct",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
+    "tipo": "show",
+    "fecha": "11 sep al 12 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
     "tipo": "show",
-    "fecha": "06 sep al 27 sep",
+    "fecha": "13 sep al 27 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "12€",
@@ -88,14 +110,25 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Juegos Nocturnos Impro",
+    "titulo": "Otra Impro",
     "tipo": "show",
-    "fecha": "05 sep al 30 oct",
+    "fecha": "11 sep al 11 oct",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
+    "url_info": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "El Banco - Show de improvisación",
+    "tipo": "show",
+    "fecha": "19 sep al 26 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
+    "url_info": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
     "fuente": "atrapalo"
   },
   {
@@ -107,17 +140,6 @@
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
     "url_info": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Escondido Gran Vía",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
-    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
     "fuente": "atrapalo"
   },
   {
@@ -143,6 +165,17 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Los Gilipollas",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Sala WIT",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Serie Maniaks",
     "tipo": "show",
     "fecha": "02 oct al 18 dic",
@@ -165,14 +198,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Impar Show",
+    "titulo": "PalabrerIA - Bonifacético y Yago Valverde",
     "tipo": "show",
-    "fecha": "03 sep al 24 dic",
-    "sala": "Axel Hotel Madrid",
+    "fecha": "",
+    "sala": "Teatro Escondido Gran Vía",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "precio": "12€",
+    "url_entradas": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
+    "url_info": "https://www.atrapalo.com/entradas/palabreria-bonifacetico-y-yago-valverde_e4943807/",
     "fuente": "atrapalo"
   },
   {
@@ -187,25 +220,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
+    "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "04 sep al 12 sep",
-    "sala": "La Sala de la Impro",
+    "fecha": "10 sep al 24 dic",
+    "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Los Gilipollas",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
-    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
     "fuente": "atrapalo"
   },
   {
@@ -217,17 +239,6 @@
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
     "url_info": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "El Banco - Show de improvisación",
-    "tipo": "show",
-    "fecha": "05 sep al 26 sep",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
-    "url_info": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
     "fuente": "atrapalo"
   },
   {
@@ -244,7 +255,7 @@
   {
     "titulo": "Impro de una noche de... Verano",
     "tipo": "show",
-    "fecha": "06 sep al 27 sep",
+    "fecha": "13 sep al 27 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "10€",
@@ -264,14 +275,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Otra Impro",
+    "titulo": "Impro de verano",
     "tipo": "show",
-    "fecha": "04 sep al 11 oct",
+    "fecha": "",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
     "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
-    "url_info": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
     "fuente": "atrapalo"
   },
   {
@@ -297,17 +308,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro de verano",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Impro Jlobo",
     "tipo": "show",
     "fecha": "",
@@ -316,6 +316,17 @@
     "precio": "10€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
     "url_info": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Amiguis",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Vodevil Circus",
+    "direccion": "Madrid",
+    "precio": "14€",
+    "url_entradas": "https://www.atrapalo.com/entradas/amiguis_e4916305/",
+    "url_info": "https://www.atrapalo.com/entradas/amiguis_e4916305/",
     "fuente": "atrapalo"
   },
   {
