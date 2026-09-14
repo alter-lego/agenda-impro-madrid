@@ -35,7 +35,7 @@
   {
     "titulo": "Clap",
     "tipo": "show",
-    "fecha": "11 sep al 31 oct",
+    "fecha": "18 sep al 28 nov",
     "sala": "Teatro Sofía",
     "direccion": "Madrid",
     "precio": null,
@@ -46,7 +46,7 @@
   {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "10 sep al 29 nov",
+    "fecha": "16 sep al 29 nov",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -57,7 +57,7 @@
   {
     "titulo": "Jamming",
     "tipo": "show",
-    "fecha": "11 sep al 31 oct",
+    "fecha": "18 sep al 31 oct",
     "sala": "Teatro Maravillas",
     "direccion": "Madrid",
     "precio": null,
@@ -68,7 +68,7 @@
   {
     "titulo": "Impro Top Madrid",
     "tipo": "show",
-    "fecha": "10 sep al 30 ago",
+    "fecha": "17 sep al 30 ago",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
     "precio": "9€",
@@ -77,31 +77,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Juegos Nocturnos Impro",
-    "tipo": "show",
-    "fecha": "12 sep al 30 oct",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Batallas de Impro: Las Guerras de Calamburia",
-    "tipo": "show",
-    "fecha": "11 sep al 12 sep",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "url_info": "https://www.atrapalo.com/entradas/batallas-de-impro-las-guerras-de-calamburia_e4937673/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
     "tipo": "show",
-    "fecha": "13 sep al 27 sep",
+    "fecha": "20 sep al 27 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "12€",
@@ -110,31 +88,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Otra Impro",
-    "tipo": "show",
-    "fecha": "11 sep al 11 oct",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
-    "url_info": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "El Banco - Show de improvisación",
-    "tipo": "show",
-    "fecha": "19 sep al 26 sep",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
-    "url_info": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "ImproCafé Show",
     "tipo": "show",
-    "fecha": "10 sep al 24 sep",
+    "fecha": "17 sep al 24 sep",
     "sala": "La Escalera de Jacob",
     "direccion": "Madrid",
     "precio": null,
@@ -143,14 +99,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Al Tran Tran Impro",
+    "titulo": "Juegos Nocturnos Impro",
     "tipo": "show",
-    "fecha": "26 sep al 10 oct",
+    "fecha": "18 sep al 30 oct",
     "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
-    "url_info": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
     "fuente": "atrapalo"
   },
   {
@@ -165,36 +121,36 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Los Gilipollas",
+    "titulo": "Otra Impro",
     "tipo": "show",
-    "fecha": "",
-    "sala": "Sala WIT",
+    "fecha": "03 oct al 11 oct",
+    "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
-    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
+    "url_info": "https://www.atrapalo.com/entradas/otra-impro_e4948651/",
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Serie Maniaks",
+    "titulo": "Impro Impar Show",
     "tipo": "show",
-    "fecha": "02 oct al 18 dic",
-    "sala": "OFF LATINA",
+    "fecha": "17 sep al 24 dic",
+    "sala": "Axel Hotel Madrid",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La cocina de Impro",
+    "titulo": "Al Tran Tran Impro",
     "tipo": "show",
-    "fecha": "20 sep al 27 sep",
-    "sala": "La Escalera de Jacob",
+    "fecha": "26 sep al 10 oct",
+    "sala": "Collage Burlesque",
     "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
-    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
+    "url_info": "https://www.atrapalo.com/entradas/al-tran-tran-impro_e4931878/",
     "fuente": "atrapalo"
   },
   {
@@ -209,6 +165,17 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Serie Maniaks",
+    "tipo": "show",
+    "fecha": "02 oct al 18 dic",
+    "sala": "OFF LATINA",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Impro 1",
     "tipo": "show",
     "fecha": "",
@@ -220,14 +187,36 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro Impar Show",
+    "titulo": "Los Gilipollas",
     "tipo": "show",
-    "fecha": "10 sep al 24 dic",
-    "sala": "Axel Hotel Madrid",
+    "fecha": "26 sep al 12 jun",
+    "sala": "Sala WIT",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "La cocina de Impro",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "La Escalera de Jacob",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Corral de Comedia El Concurso (y micro abierto)",
+    "tipo": "show",
+    "fecha": "24 sep al 05 nov",
+    "sala": "Jíbaro Café Ba",
+    "direccion": "Madrid",
+    "precio": "5€",
+    "url_entradas": "https://www.atrapalo.com/entradas/corral-de-comedia-el-concurso-y-micro-abierto-_e4904214/",
+    "url_info": "https://www.atrapalo.com/entradas/corral-de-comedia-el-concurso-y-micro-abierto-_e4904214/",
     "fuente": "atrapalo"
   },
   {
@@ -253,14 +242,36 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "El Banco - Show de improvisación",
+    "tipo": "show",
+    "fecha": "19 sep al 26 sep",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
+    "url_info": "https://www.atrapalo.com/entradas/el-banco-show-de-improvisacion_e4937666/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Impro de una noche de... Verano",
     "tipo": "show",
-    "fecha": "13 sep al 27 sep",
+    "fecha": "25 sep al 27 sep",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "10€",
     "url_entradas": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
     "url_info": "https://www.atrapalo.com/entradas/impro-de-una-noche-de-verano_e4936177/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "ImproRisa",
+    "tipo": "show",
+    "fecha": "19 sep al 26 sep",
+    "sala": "Collage Burlesque",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
+    "url_info": "https://www.atrapalo.com/entradas/improrisa_e4949644/",
     "fuente": "atrapalo"
   },
   {
@@ -275,25 +286,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Impro de verano",
+    "titulo": "Ensayo General",
     "tipo": "show",
-    "fecha": "",
-    "sala": "Collage Burlesque",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-de-verano_e4947196/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Velada de Impro",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teatro Infanta Isabel",
+    "fecha": "02 oct al 30 oct",
+    "sala": "Teatro de las Aguas",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
-    "url_info": "https://www.atrapalo.com/entradas/velada-de-impro_e4951119/",
+    "url_entradas": "https://www.atrapalo.com/entradas/ensayo-general_e4952973/",
+    "url_info": "https://www.atrapalo.com/entradas/ensayo-general_e4952973/",
     "fuente": "atrapalo"
   },
   {
@@ -305,17 +305,6 @@
     "precio": "14€",
     "url_entradas": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
     "url_info": "https://www.atrapalo.com/entradas/jlobo-la-comedia-que-siempre-llega_e4943857/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro Jlobo",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Platea Café Teatro Rivas Vaciamadrid",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-jlobo_e4949271/",
     "fuente": "atrapalo"
   },
   {

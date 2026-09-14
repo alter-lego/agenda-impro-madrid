@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-09-07T14:10:05",
+  "fecha_ejecucion": "2026-09-14T14:56:19",
   "fuentes_auditadas": 3,
-  "total_eventos": 31,
-  "total_alertas": 13,
+  "total_eventos": 30,
+  "total_alertas": 10,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-09-07T14:10:05",
+      "fecha_ejecucion": "2026-09-14T14:56:19",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -22,7 +22,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-09-07T14:10:05",
+      "fecha_ejecucion": "2026-09-14T14:56:19",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -43,18 +43,13 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-09-07T14:10:05",
+      "fecha_ejecucion": "2026-09-14T14:56:19",
       "fuente": "atrapalo",
-      "eventos_recibidos": 28,
-      "eventos_validos": 28,
-      "num_alertas": 10,
+      "eventos_recibidos": 27,
+      "eventos_validos": 27,
+      "num_alertas": 7,
       "num_alertas_graves": 0,
       "alertas": [
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Los Gilipollas",
-          "detalle": "fecha vacía (aviso)"
-        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "PalabrerIA - Bonifacético y Yago Valverde",
@@ -67,27 +62,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "La cocina de Impro",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Barbu2 Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro de verano",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Velada de Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
           "evento": "Jlobo- La Comedia que siempre llega",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Impro Jlobo",
           "detalle": "fecha vacía (aviso)"
         },
         {
