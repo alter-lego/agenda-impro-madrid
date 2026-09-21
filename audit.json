@@ -1,28 +1,12 @@
 {
-  "fecha_ejecucion": "2026-09-14T14:56:19",
-  "fuentes_auditadas": 3,
-  "total_eventos": 30,
-  "total_alertas": 10,
+  "fecha_ejecucion": "2026-09-21T15:01:20",
+  "fuentes_auditadas": 2,
+  "total_eventos": 35,
+  "total_alertas": 13,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-09-14T14:56:19",
-      "fuente": "teatro_asura",
-      "eventos_recibidos": 1,
-      "eventos_validos": 1,
-      "num_alertas": 1,
-      "num_alertas_graves": 0,
-      "alertas": [
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Noche De Impro",
-          "detalle": "fecha vacía (aviso)"
-        }
-      ],
-      "bloqueado": false
-    },
-    {
-      "fecha_ejecucion": "2026-09-14T14:56:19",
+      "fecha_ejecucion": "2026-09-21T15:01:20",
       "fuente": "club_impro",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -43,16 +27,16 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-09-14T14:56:19",
+      "fecha_ejecucion": "2026-09-21T15:01:20",
       "fuente": "atrapalo",
-      "eventos_recibidos": 27,
-      "eventos_validos": 27,
-      "num_alertas": 7,
+      "eventos_recibidos": 33,
+      "eventos_validos": 33,
+      "num_alertas": 11,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "PalabrerIA - Bonifacético y Yago Valverde",
+          "evento": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -62,7 +46,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "La cocina de Impro",
+          "evento": "El Banco - Show de improvisación",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -72,7 +56,27 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "ImproRisa",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Impro In, Todo o Nada",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Jlobo- La Comedia que siempre llega",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Jamming Kombat",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Matching",
           "detalle": "fecha vacía (aviso)"
         },
         {
