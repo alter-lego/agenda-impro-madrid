@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-09-28T16:40:54",
+  "fecha_ejecucion": "2026-10-05T17:02:48",
   "fuentes_auditadas": 3,
-  "total_eventos": 35,
-  "total_alertas": 14,
+  "total_eventos": 38,
+  "total_alertas": 15,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-09-28T16:40:54",
+      "fecha_ejecucion": "2026-10-05T17:02:48",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -22,7 +22,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-09-28T16:40:54",
+      "fecha_ejecucion": "2026-10-05T17:02:48",
       "fuente": "club_impro",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -41,25 +41,30 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Artylógico",
+          "evento": "Impropalestina",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impropalestina",
+          "evento": "Artylógico",
           "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-09-28T16:40:54",
+      "fecha_ejecucion": "2026-10-05T17:02:48",
       "fuente": "atrapalo",
-      "eventos_recibidos": 30,
-      "eventos_validos": 30,
-      "num_alertas": 9,
+      "eventos_recibidos": 33,
+      "eventos_validos": 33,
+      "num_alertas": 10,
       "num_alertas_graves": 0,
       "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Otra Impro",
+          "detalle": "fecha vacía (aviso)"
+        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Impro 1",
@@ -67,17 +72,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Barbu2 Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "La Jam de la Escalera",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Jlobo- La Comedia que siempre llega",
+          "evento": "Al Tran Tran Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -88,6 +83,16 @@
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Jamming Kombat",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Profluencers",
           "detalle": "fecha vacía (aviso)"
         },
         {
