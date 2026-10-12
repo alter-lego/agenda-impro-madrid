@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-10-05T17:02:48",
+  "fecha_ejecucion": "2026-10-12T17:41:10",
   "fuentes_auditadas": 3,
-  "total_eventos": 38,
-  "total_alertas": 15,
+  "total_eventos": 40,
+  "total_alertas": 17,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-10-05T17:02:48",
+      "fecha_ejecucion": "2026-10-12T17:41:10",
       "fuente": "teatro_asura",
       "eventos_recibidos": 1,
       "eventos_validos": 1,
@@ -22,7 +22,7 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-05T17:02:48",
+      "fecha_ejecucion": "2026-10-12T17:41:10",
       "fuente": "club_impro",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -53,16 +53,16 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-05T17:02:48",
+      "fecha_ejecucion": "2026-10-12T17:41:10",
       "fuente": "atrapalo",
-      "eventos_recibidos": 33,
-      "eventos_validos": 33,
-      "num_alertas": 10,
+      "eventos_recibidos": 35,
+      "eventos_validos": 35,
+      "num_alertas": 12,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Otra Impro",
+          "evento": "Al Tran Tran Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -72,12 +72,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Al Tran Tran Impro",
+          "evento": "Pasa el Micro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Matching",
+          "evento": "Making comedy show",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -87,12 +87,22 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
+          "evento": "Improarr",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Profluencers",
+          "evento": "Matching",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Manual para crear tu propia secta",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "La Impro de mi vida, en Huertas",
           "detalle": "fecha vacía (aviso)"
         },
         {
