@@ -1,28 +1,12 @@
 {
-  "fecha_ejecucion": "2026-10-12T17:41:10",
-  "fuentes_auditadas": 3,
-  "total_eventos": 40,
-  "total_alertas": 17,
+  "fecha_ejecucion": "2026-10-19T15:28:09",
+  "fuentes_auditadas": 2,
+  "total_eventos": 41,
+  "total_alertas": 18,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-10-12T17:41:10",
-      "fuente": "teatro_asura",
-      "eventos_recibidos": 1,
-      "eventos_validos": 1,
-      "num_alertas": 1,
-      "num_alertas_graves": 0,
-      "alertas": [
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Noche De Impro",
-          "detalle": "fecha vacía (aviso)"
-        }
-      ],
-      "bloqueado": false
-    },
-    {
-      "fecha_ejecucion": "2026-10-12T17:41:10",
+      "fecha_ejecucion": "2026-10-19T15:28:09",
       "fuente": "club_impro",
       "eventos_recibidos": 4,
       "eventos_validos": 4,
@@ -53,13 +37,18 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-12T17:41:10",
+      "fecha_ejecucion": "2026-10-19T15:28:09",
       "fuente": "atrapalo",
-      "eventos_recibidos": 35,
-      "eventos_validos": 35,
-      "num_alertas": 12,
+      "eventos_recibidos": 37,
+      "eventos_validos": 37,
+      "num_alertas": 14,
       "num_alertas_graves": 0,
       "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Impro 1",
+          "detalle": "fecha vacía (aviso)"
+        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Al Tran Tran Impro",
@@ -67,7 +56,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro 1",
+          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -87,11 +76,6 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Improarr",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
           "evento": "Matching",
           "detalle": "fecha vacía (aviso)"
         },
@@ -102,12 +86,22 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "Jlobo- La Comedia que siempre llega",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "La Impro de mi vida, en Huertas",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impro Jlobo",
+          "evento": "Improarr",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Impropios Airlines",
           "detalle": "fecha vacía (aviso)"
         },
         {
