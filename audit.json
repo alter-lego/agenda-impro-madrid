@@ -1,16 +1,32 @@
 {
-  "fecha_ejecucion": "2026-10-19T15:28:09",
-  "fuentes_auditadas": 2,
-  "total_eventos": 41,
-  "total_alertas": 18,
+  "fecha_ejecucion": "2026-10-26T15:04:28",
+  "fuentes_auditadas": 3,
+  "total_eventos": 38,
+  "total_alertas": 17,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-10-19T15:28:09",
+      "fecha_ejecucion": "2026-10-26T15:04:28",
+      "fuente": "teatro_asura",
+      "eventos_recibidos": 1,
+      "eventos_validos": 1,
+      "num_alertas": 1,
+      "num_alertas_graves": 0,
+      "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Noche De Impro",
+          "detalle": "fecha vacía (aviso)"
+        }
+      ],
+      "bloqueado": false
+    },
+    {
+      "fecha_ejecucion": "2026-10-26T15:04:28",
       "fuente": "club_impro",
-      "eventos_recibidos": 4,
-      "eventos_validos": 4,
-      "num_alertas": 4,
+      "eventos_recibidos": 2,
+      "eventos_validos": 2,
+      "num_alertas": 2,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -22,28 +38,23 @@
           "tipo": "campo_vacio_fecha",
           "evento": "Reservas@Elclubdelaimpro.Com",
           "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Impropalestina",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Artylógico",
-          "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-19T15:28:09",
+      "fecha_ejecucion": "2026-10-26T15:04:28",
       "fuente": "atrapalo",
-      "eventos_recibidos": 37,
-      "eventos_validos": 37,
+      "eventos_recibidos": 35,
+      "eventos_validos": 35,
       "num_alertas": 14,
       "num_alertas_graves": 0,
       "alertas": [
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Profluencers",
+          "detalle": "fecha vacía (aviso)"
+        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Impro 1",
@@ -61,17 +72,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "La ira del gran Tiki",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Pasa el Micro",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Making comedy show",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Jamming Kombat",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -81,7 +87,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Manual para crear tu propia secta",
+          "evento": "La Impro de mi vida, en Huertas",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -91,7 +97,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "La Impro de mi vida, en Huertas",
+          "evento": "Manual para crear tu propia secta",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -101,7 +107,7 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impropios Airlines",
+          "evento": "Impro Jlobo",
           "detalle": "fecha vacía (aviso)"
         },
         {
