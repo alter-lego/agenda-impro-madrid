@@ -11,6 +11,17 @@
     "fuente": "teatro_asura"
   },
   {
+    "titulo": "Impropocket2027",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Teatro Asura",
+    "direccion": "C/ de Abel 1, Madrid",
+    "precio": null,
+    "url_entradas": "https://teatroasura.com/espectaculo/impropocket2027/",
+    "url_info": "https://teatroasura.com/espectaculo/impropocket2027/",
+    "fuente": "teatro_asura"
+  },
+  {
     "titulo": "Improdimensional",
     "tipo": "show",
     "fecha": "",
@@ -33,20 +44,20 @@
     "fuente": "club_impro"
   },
   {
-    "titulo": "Clap",
+    "titulo": "Artylógico",
     "tipo": "show",
-    "fecha": "30 oct al 09 ene",
-    "sala": "Teatro Sofía",
-    "direccion": "Madrid",
+    "fecha": "",
+    "sala": "El Club de la Impro",
+    "direccion": "C/ Santa Ana, 6, Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/clap_e4940468/",
-    "url_info": "https://www.atrapalo.com/entradas/clap_e4940468/",
-    "fuente": "atrapalo"
+    "url_entradas": "https://www.elclubdelaimpro.com/events/artylogico-65",
+    "url_info": "https://www.elclubdelaimpro.com/events/artylogico-65",
+    "fuente": "club_impro"
   },
   {
     "titulo": "Corta el Cable Rojo, en Madrid",
     "tipo": "show",
-    "fecha": "29 oct al 20 dic",
+    "fecha": "05 nov al 10 ene",
     "sala": "Pequeño Teatro Gran Vía",
     "direccion": "Madrid",
     "precio": null,
@@ -55,9 +66,20 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Clap",
+    "tipo": "show",
+    "fecha": "06 nov al 09 ene",
+    "sala": "Teatro Sofía",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "url_info": "https://www.atrapalo.com/entradas/clap_e4940468/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Jamming",
     "tipo": "show",
-    "fecha": "30 oct al 19 dic",
+    "fecha": "06 nov al 19 dic",
     "sala": "Teatro Maravillas",
     "direccion": "Madrid",
     "precio": null,
@@ -68,7 +90,7 @@
   {
     "titulo": "Impro Top Madrid",
     "tipo": "show",
-    "fecha": "29 oct al 30 ago",
+    "fecha": "05 nov al 30 ago",
     "sala": "Collage Madrid",
     "direccion": "Madrid",
     "precio": "9€",
@@ -77,20 +99,9 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "ImproCafé Show",
-    "tipo": "show",
-    "fecha": "29 oct al 26 nov",
-    "sala": "La Escalera de Jacob",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
-    "url_info": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Batallas de Impro: Las Guerras de Calamburia",
     "tipo": "show",
-    "fecha": "30 oct al 27 dic",
+    "fecha": "06 nov al 27 dic",
     "sala": "La Sala de la Impro",
     "direccion": "Madrid",
     "precio": "10€",
@@ -99,14 +110,36 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Juegos Nocturnos Impro",
+    "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
     "tipo": "show",
-    "fecha": "30 oct al 28 nov",
-    "sala": "Collage Madrid",
+    "fecha": "08 nov al 27 dic",
+    "sala": "La Sala de la Impro",
     "direccion": "Madrid",
-    "precio": "9€",
-    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
-    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "precio": "12€",
+    "url_entradas": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
+    "url_info": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "ImproCafé Show",
+    "tipo": "show",
+    "fecha": "05 nov al 26 nov",
+    "sala": "La Escalera de Jacob",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
+    "url_info": "https://www.atrapalo.com/entradas/improcafe-show_e4948959/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "La fantástica leyenda de Calamburia",
+    "tipo": "show",
+    "fecha": "07 nov al 26 dic",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/la-fantastica-leyenda-de-calamburia_e4936384/",
+    "url_info": "https://www.atrapalo.com/entradas/la-fantastica-leyenda-de-calamburia_e4936384/",
     "fuente": "atrapalo"
   },
   {
@@ -121,47 +154,14 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "Profluencers",
+    "titulo": "La cocina de Impro",
     "tipo": "show",
-    "fecha": "",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/profluencers_e4939094/",
-    "url_info": "https://www.atrapalo.com/entradas/profluencers_e4939094/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Cluedo Impro: Misteriosa muerte en la mansión Malory",
-    "tipo": "show",
-    "fecha": "01 nov al 27 dic",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "12€",
-    "url_entradas": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
-    "url_info": "https://www.atrapalo.com/entradas/cluedo-impro-misteriosa-muerte-en-la-mansion-malory_e4936081/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Serie Maniaks",
-    "tipo": "show",
-    "fecha": "30 oct al 18 dic",
-    "sala": "OFF LATINA",
+    "fecha": "08 nov al 29 nov",
+    "sala": "La Escalera de Jacob",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro 1",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Usina",
-    "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-1_e4885918/",
+    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
     "fuente": "atrapalo"
   },
   {
@@ -176,9 +176,53 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "¡Salta! Jam de impro de Modo Impro",
+    "tipo": "taller",
+    "fecha": "",
+    "sala": "Madrid",
+    "direccion": "Madrid",
+    "precio": "6€",
+    "url_entradas": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
+    "url_info": "https://www.atrapalo.com/entradas/salta-jam-de-impro-de-modo-impro_e4924342/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Juegos Nocturnos Impro",
+    "tipo": "show",
+    "fecha": "08 nov al 28 nov",
+    "sala": "Collage Madrid",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "url_info": "https://www.atrapalo.com/entradas/juegos-nocturnos-impro_e4924821/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Serie Maniaks",
+    "tipo": "show",
+    "fecha": "06 nov al 18 dic",
+    "sala": "OFF LATINA",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "url_info": "https://www.atrapalo.com/entradas/serie-maniaks_e4930272/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Desafina en la Oficina",
+    "tipo": "show",
+    "fecha": "14 nov al 12 dic",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "12€",
+    "url_entradas": "https://www.atrapalo.com/entradas/desafina-en-la-oficina_e4948787/",
+    "url_info": "https://www.atrapalo.com/entradas/desafina-en-la-oficina_e4948787/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Corral de Comedia El Concurso (y micro abierto)",
     "tipo": "show",
-    "fecha": "29 oct al 17 dic",
+    "fecha": "05 nov al 17 dic",
     "sala": "Jíbaro Café Ba",
     "direccion": "Madrid",
     "precio": "5€",
@@ -187,14 +231,25 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La cocina de Impro",
+    "titulo": "Preguntas Frecuentes: un show de respuestas poco corrientes",
     "tipo": "show",
-    "fecha": "01 nov al 29 nov",
-    "sala": "La Escalera de Jacob",
+    "fecha": "",
+    "sala": "Teatro de las Aguas",
     "direccion": "Madrid",
     "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
-    "url_info": "https://www.atrapalo.com/entradas/la-cocina-de-impro_e4948963/",
+    "url_entradas": "https://www.atrapalo.com/entradas/preguntas-frecuentes-un-show-de-respuestas-poco-corrientes_e4956386/",
+    "url_info": "https://www.atrapalo.com/entradas/preguntas-frecuentes-un-show-de-respuestas-poco-corrientes_e4956386/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Profluencers",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "La Sala de la Impro",
+    "direccion": "Madrid",
+    "precio": "13€",
+    "url_entradas": "https://www.atrapalo.com/entradas/profluencers_e4939094/",
+    "url_info": "https://www.atrapalo.com/entradas/profluencers_e4939094/",
     "fuente": "atrapalo"
   },
   {
@@ -209,28 +264,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "El Match de Impro de la Escalera",
-    "tipo": "show",
-    "fecha": "30 oct al 31 oct",
-    "sala": "La Escalera de Jacob",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/el-match-de-impro-de-la-escalera_e4948956/",
-    "url_info": "https://www.atrapalo.com/entradas/el-match-de-impro-de-la-escalera_e4948956/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Voz & Voz",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Abonavida",
-    "direccion": "Madrid",
-    "precio": "4€",
-    "url_entradas": "https://www.atrapalo.com/entradas/voz-voz_e4878322/",
-    "url_info": "https://www.atrapalo.com/entradas/voz-voz_e4878322/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Los Gilipollas",
     "tipo": "show",
     "fecha": "21 nov al 12 jun",
@@ -239,6 +272,17 @@
     "precio": "9€",
     "url_entradas": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
     "url_info": "https://www.atrapalo.com/entradas/los-gilipollas_e4828767/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Impro Impar Show",
+    "tipo": "show",
+    "fecha": "05 nov al 24 dic",
+    "sala": "Axel Hotel Madrid",
+    "direccion": "Madrid",
+    "precio": "10€",
+    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
+    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
     "fuente": "atrapalo"
   },
   {
@@ -253,28 +297,6 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La ira del gran Tiki",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "La Escalera de Jacob",
-    "direccion": "Madrid",
-    "precio": null,
-    "url_entradas": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
-    "url_info": "https://www.atrapalo.com/entradas/la-ira-del-gran-tiki_e4948968/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Impro Impar Show",
-    "tipo": "show",
-    "fecha": "29 oct al 24 dic",
-    "sala": "Axel Hotel Madrid",
-    "direccion": "Madrid",
-    "precio": "10€",
-    "url_entradas": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "url_info": "https://www.atrapalo.com/entradas/impro-impar-show_e4949879/",
-    "fuente": "atrapalo"
-  },
-  {
     "titulo": "Pasa el Micro",
     "tipo": "show",
     "fecha": "",
@@ -286,25 +308,25 @@
     "fuente": "atrapalo"
   },
   {
+    "titulo": "Ensayo General",
+    "tipo": "show",
+    "fecha": "",
+    "sala": "Teatro de las Aguas",
+    "direccion": "Madrid",
+    "precio": null,
+    "url_entradas": "https://www.atrapalo.com/entradas/ensayo-general_e4952973/",
+    "url_info": "https://www.atrapalo.com/entradas/ensayo-general_e4952973/",
+    "fuente": "atrapalo"
+  },
+  {
     "titulo": "Aquí y ahora y nunca más",
     "tipo": "show",
-    "fecha": "29 oct al 26 nov",
+    "fecha": "05 nov al 26 nov",
     "sala": "Teatro de las Aguas",
     "direccion": "Madrid",
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/aqui-y-ahora-y-nunca-mas_e4955121/",
     "url_info": "https://www.atrapalo.com/entradas/aqui-y-ahora-y-nunca-mas_e4955121/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Matching",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Teseo Teatro",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/matching_e4953064/",
-    "url_info": "https://www.atrapalo.com/entradas/matching_e4953064/",
     "fuente": "atrapalo"
   },
   {
@@ -319,9 +341,31 @@
     "fuente": "atrapalo"
   },
   {
-    "titulo": "La Impro de mi vida, en Huertas",
+    "titulo": "Matching",
     "tipo": "show",
     "fecha": "",
+    "sala": "Teseo Teatro",
+    "direccion": "Madrid",
+    "precio": "8€",
+    "url_entradas": "https://www.atrapalo.com/entradas/matching_e4953064/",
+    "url_info": "https://www.atrapalo.com/entradas/matching_e4953064/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "Resilientes",
+    "tipo": "show",
+    "fecha": "20 nov al 13 dic",
+    "sala": "La Butaca Amarilla",
+    "direccion": "Madrid",
+    "precio": "9€",
+    "url_entradas": "https://www.atrapalo.com/entradas/resilientes_e4940584/",
+    "url_info": "https://www.atrapalo.com/entradas/resilientes_e4940584/",
+    "fuente": "atrapalo"
+  },
+  {
+    "titulo": "La Impro de mi vida, en Huertas",
+    "tipo": "show",
+    "fecha": "21 nov al 19 dic",
     "sala": "La Parroquia del Humor",
     "direccion": "Madrid",
     "precio": null,
@@ -332,7 +376,7 @@
   {
     "titulo": "Jlobo- La Comedia que siempre llega",
     "tipo": "show",
-    "fecha": "",
+    "fecha": "07 nov al 18 dic",
     "sala": "La Butaca Amarilla",
     "direccion": "Madrid",
     "precio": "10€",
@@ -343,23 +387,12 @@
   {
     "titulo": "Manual para crear tu propia secta",
     "tipo": "show",
-    "fecha": "",
+    "fecha": "08 nov al 29 nov",
     "sala": "La Butaca Amarilla",
     "direccion": "Madrid",
     "precio": "14€",
     "url_entradas": "https://www.atrapalo.com/entradas/manual-para-crear-tu-propia-secta_e4955770/",
     "url_info": "https://www.atrapalo.com/entradas/manual-para-crear-tu-propia-secta_e4955770/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "Improarr",
-    "tipo": "show",
-    "fecha": "",
-    "sala": "Sala de Teatro Bululú2120",
-    "direccion": "Madrid",
-    "precio": "13€",
-    "url_entradas": "https://www.atrapalo.com/entradas/improarr_e4955761/",
-    "url_info": "https://www.atrapalo.com/entradas/improarr_e4955761/",
     "fuente": "atrapalo"
   },
   {
@@ -371,17 +404,6 @@
     "precio": null,
     "url_entradas": "https://www.atrapalo.com/entradas/por-la-gracia_e4939379/",
     "url_info": "https://www.atrapalo.com/entradas/por-la-gracia_e4939379/",
-    "fuente": "atrapalo"
-  },
-  {
-    "titulo": "La fantástica leyenda de Calamburia",
-    "tipo": "show",
-    "fecha": "31 oct al 26 dic",
-    "sala": "La Sala de la Impro",
-    "direccion": "Madrid",
-    "precio": "8€",
-    "url_entradas": "https://www.atrapalo.com/entradas/la-fantastica-leyenda-de-calamburia_e4936384/",
-    "url_info": "https://www.atrapalo.com/entradas/la-fantastica-leyenda-de-calamburia_e4936384/",
     "fuente": "atrapalo"
   },
   {

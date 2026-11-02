@@ -1,32 +1,37 @@
 {
-  "fecha_ejecucion": "2026-10-26T15:04:28",
+  "fecha_ejecucion": "2026-11-02T18:07:13",
   "fuentes_auditadas": 3,
-  "total_eventos": 38,
-  "total_alertas": 17,
+  "total_eventos": 40,
+  "total_alertas": 15,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-10-26T15:04:28",
+      "fecha_ejecucion": "2026-11-02T18:07:13",
       "fuente": "teatro_asura",
-      "eventos_recibidos": 1,
-      "eventos_validos": 1,
-      "num_alertas": 1,
+      "eventos_recibidos": 2,
+      "eventos_validos": 2,
+      "num_alertas": 2,
       "num_alertas_graves": 0,
       "alertas": [
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Noche De Impro",
           "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Impropocket2027",
+          "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-26T15:04:28",
+      "fecha_ejecucion": "2026-11-02T18:07:13",
       "fuente": "club_impro",
-      "eventos_recibidos": 2,
-      "eventos_validos": 2,
-      "num_alertas": 2,
+      "eventos_recibidos": 3,
+      "eventos_validos": 3,
+      "num_alertas": 3,
       "num_alertas_graves": 0,
       "alertas": [
         {
@@ -38,28 +43,23 @@
           "tipo": "campo_vacio_fecha",
           "evento": "Reservas@Elclubdelaimpro.Com",
           "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Artylógico",
+          "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-10-26T15:04:28",
+      "fecha_ejecucion": "2026-11-02T18:07:13",
       "fuente": "atrapalo",
       "eventos_recibidos": 35,
       "eventos_validos": 35,
-      "num_alertas": 14,
+      "num_alertas": 10,
       "num_alertas_graves": 0,
       "alertas": [
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Profluencers",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Impro 1",
-          "detalle": "fecha vacía (aviso)"
-        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "Al Tran Tran Impro",
@@ -67,12 +67,17 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Voz & Voz",
+          "evento": "¡Salta! Jam de impro de Modo Impro",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "La ira del gran Tiki",
+          "evento": "Preguntas Frecuentes: un show de respuestas poco corrientes",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Profluencers",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -82,27 +87,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "Ensayo General",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Matching",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "La Impro de mi vida, en Huertas",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Jlobo- La Comedia que siempre llega",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Manual para crear tu propia secta",
-          "detalle": "fecha vacía (aviso)"
-        },
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Improarr",
           "detalle": "fecha vacía (aviso)"
         },
         {
