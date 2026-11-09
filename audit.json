@@ -1,12 +1,12 @@
 {
-  "fecha_ejecucion": "2026-11-02T18:07:13",
+  "fecha_ejecucion": "2026-11-09T18:37:37",
   "fuentes_auditadas": 3,
-  "total_eventos": 40,
-  "total_alertas": 15,
+  "total_eventos": 43,
+  "total_alertas": 18,
   "bloqueado": false,
   "detalle_por_fuente": [
     {
-      "fecha_ejecucion": "2026-11-02T18:07:13",
+      "fecha_ejecucion": "2026-11-09T18:37:37",
       "fuente": "teatro_asura",
       "eventos_recibidos": 2,
       "eventos_validos": 2,
@@ -20,14 +20,14 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Impropocket2027",
+          "evento": "Impropocket2027, Convocatoria",
           "detalle": "fecha vacía (aviso)"
         }
       ],
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-11-02T18:07:13",
+      "fecha_ejecucion": "2026-11-09T18:37:37",
       "fuente": "club_impro",
       "eventos_recibidos": 3,
       "eventos_validos": 3,
@@ -53,18 +53,13 @@
       "bloqueado": false
     },
     {
-      "fecha_ejecucion": "2026-11-02T18:07:13",
+      "fecha_ejecucion": "2026-11-09T18:37:37",
       "fuente": "atrapalo",
-      "eventos_recibidos": 35,
-      "eventos_validos": 35,
-      "num_alertas": 10,
+      "eventos_recibidos": 38,
+      "eventos_validos": 38,
+      "num_alertas": 13,
       "num_alertas_graves": 0,
       "alertas": [
-        {
-          "tipo": "campo_vacio_fecha",
-          "evento": "Al Tran Tran Impro",
-          "detalle": "fecha vacía (aviso)"
-        },
         {
           "tipo": "campo_vacio_fecha",
           "evento": "¡Salta! Jam de impro de Modo Impro",
@@ -72,12 +67,12 @@
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Preguntas Frecuentes: un show de respuestas poco corrientes",
+          "evento": "Profluencers",
           "detalle": "fecha vacía (aviso)"
         },
         {
           "tipo": "campo_vacio_fecha",
-          "evento": "Profluencers",
+          "evento": "Voz & Voz",
           "detalle": "fecha vacía (aviso)"
         },
         {
@@ -97,7 +92,27 @@
         },
         {
           "tipo": "campo_vacio_fecha",
+          "evento": "Jlobo- La Comedia que siempre llega",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Manual para crear tu propia secta",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "El más acá del más allá",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
           "evento": "Impro Jlobo",
+          "detalle": "fecha vacía (aviso)"
+        },
+        {
+          "tipo": "campo_vacio_fecha",
+          "evento": "Luis Mi - Improtóxico",
           "detalle": "fecha vacía (aviso)"
         },
         {
